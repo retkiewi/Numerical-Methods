@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Msi/Documents/MOwNiT/lab4/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+algorithm
+-
+fstream
+-
+
